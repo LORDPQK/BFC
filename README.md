@@ -7,7 +7,9 @@ Energy-efficient Brain-like Forgetting computing via tunable relaxation for line
 
 
 ## 🔥 Updates
-- (2026.02.10) BFC BFC core numerical calculation code release
+- (2026.02.01) BFC core numerical calculation code release
+- (2026.02.10) BFC Image and text feature extraction code release
+- (2026.02.15) BFC Electron cloud orbital calculation code release
 - (2026.12.24) BFC Demo release 
 
 ## 👉 Visualization
