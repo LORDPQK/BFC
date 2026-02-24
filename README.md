@@ -1,5 +1,6 @@
 # Energy-efficient Brain-like Forgetting computing via tunable relaxation for linear-time scientific solving and training-free creativity (BFC)
 Energy-efficient Brain-like Forgetting computing via tunable relaxation for linear-time scientific solving and training-free creativity
+<p align="center"><img width="800" alt="image" src="https://github.com/LORDPQK/BFC/blob/main/Fig%201.png"></p> 
 
 ## 🌤️ Highlights
 - 🏆 Proposed for the first time a bio-inspired computing approach based on a brain-like forgetting mechanism.
@@ -13,7 +14,7 @@ Energy-efficient Brain-like Forgetting computing via tunable relaxation for line
 - (2026.12.24) BFC Demo release 
 
 ## 👉 Visualization
-<p align="center"><img width="800" alt="image" src="https://github.com/LORDPQK/BFC/blob/main/Fig%201.png"></p> 
 
+<p align="center"><img width="800" alt="image" src="https://github.com/LORDPQK/BFC/blob/main/BFC%20visual.png"></p> 
 
 
