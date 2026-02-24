@@ -13,7 +13,7 @@ Energy-efficient Brain-like Forgetting computing via tunable relaxation for line
 - (2026.12.24) BFC Demo release 
 
 ## 👉 Visualization
-<p align="center"><img width="800" alt="image" src="https://github.com/LORDPQK/BFC/Fig 1.png"></p> 
+<p align="center"><img width="800" alt="image" src="https://github.com/LORDPQK/BFC/blob/main/Fig%201.png"></p> 
 
 
 
